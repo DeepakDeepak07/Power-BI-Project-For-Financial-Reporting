@@ -1,7 +1,6 @@
 # 📊 Power BI Financial Reporting & Analysis Dashboard
 
 <p align="center">
-  <img src="images/project-banner.png" width="100%">
 </p>
 
 <p align="center">
@@ -50,7 +49,7 @@ The dashboard transforms accounting and financial data into actionable business 
 
 ## 💰 Profit & Loss Statement
 
-<img src="images/pnl-dashboard.png" width="100%">
+<img src="Images/pnl-dashboard.png" width="100%">
 
 ### Highlights
 
@@ -74,7 +73,7 @@ Provides executive-level visibility into company profitability and operational p
 
 ## 🌎 Cross Country Analysis
 
-<img src="images/cross-country-analysis.png" width="100%">
+<img src="Images/cross-country-analysis.png" width="100%">
 
 ### Highlights
 
@@ -112,7 +111,7 @@ Supports global financial analysis and performance benchmarking.
 
 ## 🏦 Balance Sheet Analysis
 
-<img src="images/balance-sheet.png" width="100%">
+<img src="Images/balance-sheet.png" width="100%">
 
 ### Highlights
 
@@ -144,7 +143,7 @@ Provides insight into liquidity, leverage, and overall financial health.
 
 ## 📚 General Ledger Analysis
 
-<img src="images/ledger-analysis.png" width="100%">
+<img src="Images/ledger-analysis.png" width="100%">
 
 ### Highlights
 
@@ -166,7 +165,7 @@ Enables detailed transaction investigation and audit support.
 
 ## ⚖️ Trial Balance Dashboard
 
-<img src="images/trial-balance.png" width="100%">
+<img src="Images/trial-balance.png" width="100%">
 
 ### Highlights
 
@@ -186,7 +185,7 @@ Supports accounting controls and financial statement preparation.
 
 ## 💵 Cash Flow Statement
 
-<img src="images/cash-flow.png" width="100%">
+<img src="Images/cash-flow.png" width="100%">
 
 ### Highlights
 
@@ -208,7 +207,7 @@ Provides visibility into cash generation and funding activities.
 
 ## 📈 FTP (For The Period) Moving & Rolling Analysis
 
-<img src="images/ftp-analysis.png" width="100%">
+<img src="Images/ftp-analysis.png" width="100%">
 
 ### Highlights
 
@@ -230,7 +229,7 @@ Helps identify trends, seasonality, and operational performance changes.
 
 ## 📑 Statement of Changes in Equity (SOCE)
 
-<img src="images/soce-dashboard.png" width="100%">
+<img src="Images/soce-dashboard.png" width="100%">
 
 ### Highlights
 
